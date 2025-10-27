@@ -1,4 +1,3 @@
-
 # Multilayered Feed-Forward Network
 
 ## About
@@ -9,9 +8,7 @@ The main goals of this exercise are to:
 
 Understand the architecture of feed-forward neural networks.
 
-Learn optimization methods using backpropagation and mini-batch gradient descent.
-
-* [ ] Explore hyperparameter selection for training.
+Learn optimization methods using backpropagation and mini-batch gradient descent
 
 ---
 
@@ -54,8 +51,7 @@ project_root/
 
 └── README.md
 
-
->  **Note:** Download the datasets from the links above and place them in the `data/raw/` folder before running the project.
+> **Note:** Download the datasets from the links above and place them in the `data/raw/` folder before running the project.
 
 ---
 
