@@ -7,10 +7,17 @@ class Node():
     
 class Network():
     def __init__(self, input_dim: int, hidden_dim: int, output_dim: int, num_hidden_layers: int):
+        # set attributes
         self.input_dim = input_dim
         self.hidden_dim = hidden_dim
         self.output_dim = output_dim
         self.num_hidden_layers = num_hidden_layers
+
+        # initialize weights
+        self.initializeWeights()
+    
+    def initializeWeights(self):
+        pass
     
 class MyFFNetworkForClassification(Network):
     def __init__(self, input_dim: int, hidden_dim: int, output_dim: int, num_hidden_layers: int):
