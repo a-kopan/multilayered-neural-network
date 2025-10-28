@@ -47,11 +47,9 @@ project_root/
 
 ├── src/
 
-├── models/
-
 └── README.md
 
-> **Note:** Download the datasets from the links above and place them in the `data/raw/` folder before running the project.
+> **Note:** Download the datasets from the links above and place them in the `data/raw/corresponding_directory` folder before running the project.
 
 ---
 
